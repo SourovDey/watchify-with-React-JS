@@ -1,6 +1,6 @@
 import React from "react";
-import heart from '../assets/heart.png'
-import veiw from '../assets/view.png'
+import heart from '../assets/images/heart.png'
+import veiw from '../assets/images/view.png'
 
 const moviecard = ({data}) =>{
     console.log(data.reactNum)

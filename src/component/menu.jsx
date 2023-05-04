@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from '../assets/logo.png'
-import profileLogo from '../assets/sourov.jpeg'
+import Logo from '../assets/images/logo.png'
+import profileLogo from '../assets/images/sourov.jpeg'
 const menu = () =>{
     return(
     <div className="header-menu">
